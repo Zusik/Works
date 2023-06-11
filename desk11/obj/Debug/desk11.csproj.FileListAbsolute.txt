@@ -1,0 +1,13 @@
+C:\Users\Admin11\Desktop\1904\desk11\bin\Debug\desk11.exe.config
+C:\Users\Admin11\Desktop\1904\desk11\bin\Debug\desk11.exe
+C:\Users\Admin11\Desktop\1904\desk11\bin\Debug\desk11.pdb
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.csproj.AssemblyReference.cache
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.Properties.Resources.resources
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.csproj.GenerateResource.cache
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.csproj.CoreCompileInputs.cache
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.exe
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.pdb
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.Menu.resources
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.Authorizaton.resources
+C:\Users\Admin11\Desktop\1904\desk11\obj\Debug\desk11.ForGost.resources
